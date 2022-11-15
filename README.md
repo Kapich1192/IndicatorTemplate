@@ -1,0 +1,2 @@
+# IndicatorTemplate
+IndicatorTemplate
